@@ -1,8 +1,6 @@
 <h1 align="center">Hej, jestem Chippy</h1>
 <h3 align="center">14 letni Polski degerat</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chippyydev" alt="chippyydev" /></a> </p>
-
 - 🔭 Aktualnie pracuje nad [Velocity](https://github.com/chippyydev/velocity-bot)
 
 - 📫 Gdzie mnie znaleźć **ytchippy@protonmail.com** bądź **Chippy#1897**
