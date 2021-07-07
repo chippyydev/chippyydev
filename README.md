@@ -3,6 +3,6 @@
 
 - 🔭 Aktualnie pracuje nad [redacted]
 
-- 📫 Gdzie mnie znaleźć **ytchippy@protonmail.com** bądź **Chippy#1897**
+- 📫 Gdzie mnie znaleźć: **ytchippy@protonmail.com** bądź **Chippy#1897**
 
 - ⚡ Fun fact: **Jestem zjebany lmao**
