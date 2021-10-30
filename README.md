@@ -9,5 +9,6 @@
 
 ![Staty GitHubowe :3](https://github-readme-stats.vercel.app/api?username=chippyydev&theme=midnight-purple&show_icons=true) 
 
-A no, i oczywiście:
+A no, i oczywiście: 
+
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
