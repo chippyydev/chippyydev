@@ -6,3 +6,5 @@
 - 📫 Gdzie mnie znaleźć: **ytchippy@protonmail.com** bądź **Chippy#1897**
 
 - ⚡ Fun fact: **Jestem zjebany lmao**
+
+[![Staty GitHubowe :3](https://github-readme-stats.vercel.app/api?username=chippyydev)](https://github.com/anuraghazra/github-readme-stats)
