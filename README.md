@@ -7,4 +7,4 @@
 
 - ⚡ Fun fact: **Jestem zjebany lmao**
 
-[![Staty GitHubowe :3](https://github-readme-stats.vercel.app/api?username=chippyydev)](https://github.com/anuraghazra/github-readme-stats)
+![Staty GitHubowe :3](https://github-readme-stats.vercel.app/api?username=chippyydev&theme=midnight-purple&show_icons=true) 
