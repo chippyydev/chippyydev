@@ -1,5 +1,5 @@
 <h1 align="center">Hej, jestem Chippy</h1>
-<h3 align="center">14 letni Polski degerat</h3>
+<h3 align="center">14 letni Polski degenerat</h3>
 
 - 🔭 Aktualnie pracuje nad [redacted]
 
