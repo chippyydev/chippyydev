@@ -1,7 +1,7 @@
 <h1 align="center">Oh, hey, I'm Chippy.</h1>
 <h3 align="center">14 y/o Polish... someone</h3>
 
-- 🔭 Aktualnie pracuje nad [redacted]
+- 🔭 Currently working on [redacted]
 
 - 📫 How to contact: **chip@chippy.pl** or **Chippy#9999** on Discord.
 
