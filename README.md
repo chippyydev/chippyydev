@@ -1,9 +1,9 @@
 <h1 align="center">Oh, hey, I'm Chippy.</h1>
-<h3 align="center">14 y/o Polish... someone</h3>
+<h3 align="center">15 y/o Polish... someone</h3>
 
 - 🔭 Currently working on [redacted]
 
-- 📫 How to contact: **chip@chippy.pl** or **Chippy#9999** on Discord.
+- 📫 How to contact: **chip@chippy.pl** or **Chippy#7382** on Discord.
 
 - ⚡ Fun fact: **I don't know what I'm doing.**
 
